@@ -2,7 +2,7 @@
 
 A complete **MERN** stack file-sharing-app, which shares any file via link or mail.
 
-link - [https://shareme-file-sharing-app.netlify.app/](https://shareme-file-sharing-app.netlify.app/)
+link - [https://shareme-file-sharing.netlify.app/](https://shareme-file-sharing.netlify.app/)
 
 ### Tools and Technologies used:
 
